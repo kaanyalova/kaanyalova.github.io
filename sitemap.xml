@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://kaanyalova.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/archive/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/some-article/</loc>
+        <lastmod>2022-08-01</lastmod>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/tags/some/</loc>
+    </url>
+    <url>
+        <loc>https://kaanyalova.github.io/tags/tags/</loc>
+    </url>
+</urlset>
